@@ -14,7 +14,7 @@ There are two classes: +1 and -1.
 
 
 ## Data Description
-&* The client will send data in multiple sets of files in batches at a given location.
+* The client will send data in multiple sets of files in batches at a given location.
 Data will contain Wafer names and 590 columns of different sensor values for each wafer.
 The last column will have the "Good/Bad" value for each wafer.
 
